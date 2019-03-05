@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
     private Button mFirebaseBtn;
     private DatabaseReference mDatabase;
 
+    //Git commit testing
+
     private EditText mNameField;
 
     @Override
