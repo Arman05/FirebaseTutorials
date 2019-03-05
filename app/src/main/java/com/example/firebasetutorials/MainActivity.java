@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
                 String name = mNameField.getText().toString().trim();
 
-                //mDatabase.child("Name").setValue(name);
+                mDatabase.child("Name").setValue(name);
 
                 mDatabase.push().setValue(name);
 
