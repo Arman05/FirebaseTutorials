@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "833597568602-fc927l8eiuo0evvlclsu4ihgku7074h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetutorials",
+            "certificate_hash": "92012bce72f7621b442a544adaa1de166323594b"
+          }
+        },
+        {
           "client_id": "833597568602-fro63ie2n39ihskmq2m5jqs0lc59jbd5.apps.googleusercontent.com",
           "client_type": 3
         }
